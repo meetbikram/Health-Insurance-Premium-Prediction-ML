@@ -21,9 +21,8 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ##### 7.Webpage &Deployment : Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
 
 # WEB INTERFACE :
-![alt tag](https://github.com/shivmehmi/health_insurance_premium_prediction/blob/main/Images/Web%201.png)
-##### Prediction:
-![alt tag](https://github.com/shivmehmi/health_insurance_premium_prediction/blob/main/Images/Web%202.png)
+![Web 1](https://user-images.githubusercontent.com/41924501/205498218-4eb420bd-4394-41b9-9332-8fc8260bd805.png)
+
 # LIBRARIES USED :
 1) Pandas
 2) Numpy
