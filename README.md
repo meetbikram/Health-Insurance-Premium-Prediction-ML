@@ -20,9 +20,6 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ##### 6.Pickle File : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.
 ##### 7.Webpage &Deployment : Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
 
-# DEPLOYMENT LINK:
-https://predict-health-insurance.herokuapp.com/
-
 # WEB INTERFACE :
 ![alt tag](https://github.com/shivmehmi/health_insurance_premium_prediction/blob/main/Images/Web%201.png)
 ##### Prediction:
